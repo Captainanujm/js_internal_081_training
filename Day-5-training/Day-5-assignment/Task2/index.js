@@ -1,0 +1,9 @@
+document.querySelector(".btn").addEventListener("click",()=>{
+    document.querySelector("body").style.background="red"
+})
+document.querySelector(".btn-1").addEventListener("click",()=>{
+    document.querySelector("body").style.background="green"
+})
+document.querySelector(".btn-2").addEventListener("click",()=>{
+    document.querySelector("body").style.background="blue"
+})
